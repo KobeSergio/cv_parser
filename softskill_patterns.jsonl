@@ -1,0 +1,49 @@
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "communication"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "teamwork"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "problem"},{"LOWER": "solving"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "time"},{"LOWER": "management"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "leadership"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "adaptability"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "creativity"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "empathy"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "conflict"},{"LOWER": "resolution"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "active"},{"LOWER": "listening"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "critical"},{"LOWER": "thinking"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "cultural"},{"LOWER": "competence"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "customer"},{"LOWER": "service"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "decision"},{"LOWER": "making"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "emotional"},{"LOWER": "intelligence"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "flexibility"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "goal"},{"LOWER": "setting"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "interpersonal"},{"LOWER": "skills"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "negotiation"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "patience"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "persuasion"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "positive"},{"LOWER": "attitude"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "presentation"},{"LOWER": "skills"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "problem"},{"LOWER": "analysis"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "self"},{"LOWER": "motivation"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "stress"},{"LOWER": "management"}]} 
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "trustworthiness"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "verbal"},{"LOWER": "communication"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "writing"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "attention"},{"LOWER": "to"},{"LOWER": "detail"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "coaching"},{"LOWER": "and"},{"LOWER": "mentoring"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "conflict"},{"LOWER": "management"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "cultural"},{"LOWER": "awareness"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "decision"},{"LOWER": "making"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "dependability"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "diversity"},{"LOWER": "and"},{"LOWER": "inclusion"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "enthusiasm"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "financial"},{"LOWER": "management"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "humility"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "initiative"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "innovation"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "intercultural"},{"LOWER": "communication"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "interpersonal"},{"LOWER": "communication"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "learning"},{"LOWER": "agility"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "organizational"},{"LOWER": "skills"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "presentation"},{"LOWER": "skills"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "resilience"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "strategic"},{"LOWER": "thinking"}]}
+{"label": "SOFT_SKILL", "pattern": [{"LOWER": "work"},{"LOWER": "ethic"}]}
