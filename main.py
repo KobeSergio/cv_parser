@@ -13,6 +13,11 @@ import json
 import spacy
 from spacy.matcher import Matcher
 
+
+from flask import Flask, request, jsonify
+from flask_cors import CORS
+
+
 nlp = spacy.load('en_core_web_sm')
 
 skill_matcher = Matcher(nlp.vocab)
@@ -92,6 +97,7 @@ def preprocess_softskill(text, file_path):
 
 
 app = Flask(__name__)  
+CORS(app)
 
 @app.route('/process_resume', methods=['POST'])
 def process_resume():
