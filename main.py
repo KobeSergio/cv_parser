@@ -13,8 +13,10 @@ import json
 import spacy
 from spacy.matcher import Matcher
 
+
 from flask import Flask, request, jsonify
 from flask_cors import CORS
+
 
 nlp = spacy.load('en_core_web_sm')
 
@@ -136,9 +138,9 @@ def process_resume():
 
     return jsonify(data)
 
-@app.route('/process_job', methods=['GET'])
+@app.route('/process_job', methods=['POST'])
 def process_job():
-    job_desc = request.form.get('job_desc')
+    job_desc = request.json.get('job_desc')
     processed_skills = preprocess_skill(job_desc, r'./skill_patterns.jsonl')
     processed_softskill = preprocess_softskill(job_desc, r'./softskill_patterns.jsonl')
 
@@ -150,7 +152,7 @@ def process_job():
 
 @app.route('/', methods=['GET'])
 def index():
-    return 'v1.1'
+    return 'v1.2'
 
 if __name__ == '__main__':
     app.run(debug=True)
